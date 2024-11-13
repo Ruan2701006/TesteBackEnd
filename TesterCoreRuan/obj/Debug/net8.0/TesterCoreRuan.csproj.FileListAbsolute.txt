@@ -1,0 +1,17 @@
+C:\Users\Aluno Noite\source\repos\TesterCoreRuan\bin\Debug\net8.0\TesterCoreRuan.deps.json
+C:\Users\Aluno Noite\source\repos\TesterCoreRuan\bin\Debug\net8.0\TesterCoreRuan.runtimeconfig.json
+C:\Users\Aluno Noite\source\repos\TesterCoreRuan\bin\Debug\net8.0\TesterCoreRuan.dll
+C:\Users\Aluno Noite\source\repos\TesterCoreRuan\bin\Debug\net8.0\TesterCoreRuan.pdb
+C:\Users\Aluno Noite\source\repos\TesterCoreRuan\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Aluno Noite\source\repos\TesterCoreRuan\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Aluno Noite\source\repos\TesterCoreRuan\obj\Debug\net8.0\TesterCoreRuan.csproj.AssemblyReference.cache
+C:\Users\Aluno Noite\source\repos\TesterCoreRuan\obj\Debug\net8.0\TesterCoreRuan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno Noite\source\repos\TesterCoreRuan\obj\Debug\net8.0\TesterCoreRuan.AssemblyInfoInputs.cache
+C:\Users\Aluno Noite\source\repos\TesterCoreRuan\obj\Debug\net8.0\TesterCoreRuan.AssemblyInfo.cs
+C:\Users\Aluno Noite\source\repos\TesterCoreRuan\obj\Debug\net8.0\TesterCoreRuan.csproj.CoreCompileInputs.cache
+C:\Users\Aluno Noite\source\repos\TesterCoreRuan\obj\Debug\net8.0\TesterCo.B00CDA53.Up2Date
+C:\Users\Aluno Noite\source\repos\TesterCoreRuan\obj\Debug\net8.0\TesterCoreRuan.dll
+C:\Users\Aluno Noite\source\repos\TesterCoreRuan\obj\Debug\net8.0\refint\TesterCoreRuan.dll
+C:\Users\Aluno Noite\source\repos\TesterCoreRuan\obj\Debug\net8.0\TesterCoreRuan.pdb
+C:\Users\Aluno Noite\source\repos\TesterCoreRuan\obj\Debug\net8.0\TesterCoreRuan.genruntimeconfig.cache
+C:\Users\Aluno Noite\source\repos\TesterCoreRuan\obj\Debug\net8.0\ref\TesterCoreRuan.dll
